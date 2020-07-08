@@ -37,7 +37,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 
 <details>
 <summary>Quick Links</summary>
-    
+
 - [Polybar 1](https://github.com/adi1090x/polybar-themes#-polybar-1)
 - [Polybar 2](https://github.com/adi1090x/polybar-themes#-polybar-2)
 - [Polybar 3](https://github.com/adi1090x/polybar-themes#-polybar-3)
@@ -83,7 +83,7 @@ fc-cache -v
 # copy everything from polybar-1 to polybar config dir (backup your config first if you have)
 cp -r * ~/.config/polybar
 
-# run launch.sh 
+# run launch.sh
 ~/.config/polybar/launch.sh
 ```
 
@@ -310,8 +310,8 @@ Polybar themes with less icons and more text, color changer script also added.
 
 ## // Polybar-8
 
-Another polybar themes collection. There are four types of bar, each with different icons and fonts. 
-Style changer script also added, with the help of it, you can easily change the bar style according to your taste. 
+Another polybar themes collection. There are four types of bar, each with different icons and fonts.
+Style changer script also added, with the help of it, you can easily change the bar style according to your taste.
 
 **How To Use** : Put all the files from *polybar-8* to ***/home/$USER/.config/polybar/*** and execute ***launch.sh*** to start the polybar or add this script to your WM startup file. ***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
 
@@ -332,7 +332,7 @@ Style changer script also added, with the help of it, you can easily change the 
 - Icon Fonts : [Typicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 
-#### Bars Preview 
+#### Bars Preview
 Here the previews of each bar, with different icons, fonts & colors.
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8.png) <br />
 
@@ -350,7 +350,7 @@ There are four style - Siji, Feather, Material & Typicons. Also there are two sc
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8S.png">
-</p> <br 
+</p> <br
 
 #### Modules Tester
 A simple script *tester.sh* also added, which give you a preview of all modules for each bar. <br />
@@ -383,11 +383,11 @@ To change colors, there is a module added on polybar which changes the colors in
 ***Previews*** : Well, that's how it looks...
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/Preview_9.png) <br />
 
-## // Polybar-10 || DE/DISTRO Panels 
+## // Polybar-10 || DE/DISTRO Panels
 In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just say *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel. Compton is used to get the *blur* in some menu and panels (like, deepin, zorin & Kde). <br />
 
 **How To Use** : Put all the files from *polybar-10* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
-Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, scripts, wallpaper***. You need *rofi (for menus)* & *feh (To set wallpaper)* for these panels to work. 
+Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, scripts, wallpaper***. You need *rofi (for menus)* & *feh (To set wallpaper)* for these panels to work.
 
 ***Overview***
 - OS : Arch Linux
@@ -395,7 +395,7 @@ Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, sc
 - Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts), [Material](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts), [Icomoon feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) & [Linearicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
 - Text Fonts : [Noto Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) & [Droid Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
 
-***Bars/Panels*** : 
+***Bars/Panels*** :
 Here's the preview of each panel...
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_10.png) <br />
 
@@ -403,58 +403,58 @@ Here's the preview of each panel...
 To switch the panel, there is a module added on each bar which switches the panel and set the default DE wallpaper (temporarily) in Real-time/In-place or whatever you call it. Here's how it looks... yeah it's a chameleon :D
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_10S.png) <br />
 
-***Previews*** : 
+***Previews*** :
 Here's the previews of, how these bar looks with their default DE's wallpaper & also the rofi style.
 
-Budgie             |  Rofi 
+Budgie             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/budgie.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/budgie_alt.png)
 
-Deepin             |  Rofi 
+Deepin             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/deepin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/deepin_alt.png)
 
-Elementary             |  Rofi 
+Elementary             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_dark.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_dark_alt.png)
 
-Elementary Alt             |  Rofi 
+Elementary Alt             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_light.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_light_alt.png)
 
-Gnome             |  Rofi 
+Gnome             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/gnome_alt.png)
 
-Kde             |  Rofi 
+Kde             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde1.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde1_alt.png)
 
-Kde Alt             |  Rofi 
+Kde Alt             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde2.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde2_alt.png)
 
-Liri             |  Rofi 
+Liri             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/liri.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/liri_alt.png)
 
-Mint             |  Rofi 
+Mint             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/mint.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/mint_alt.png)
 
-Ubuntu Gnome             |  Rofi 
+Ubuntu Gnome             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_gnome_alt.png)
 
-Ubuntu Unity             |  Rofi 
+Ubuntu Unity             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_unity.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_unity_alt.png)
 
-Xubuntu             |  Rofi 
+Xubuntu             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/xubuntu.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/xubuntu_alt.png)
 
-Zorin             |  Rofi 
+Zorin             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/zorin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/zorin_alt.png)
 
@@ -526,7 +526,7 @@ Apps             |  System    |  Mpd      |  Workspace
 ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/1.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/2.png) | ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/3.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/4.png)
 
 
-Cpu             |  Memory  |  filesystem  
+Cpu             |  Memory  |  filesystem
 :-------------:|:----------------:|:--------:
 ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/5.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/6.png) | ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/7.png) |
 
@@ -550,8 +550,8 @@ Light             |  Dark
 ### Support This Project
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
-<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
-<a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
+<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>
+<a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>
 </p>
 
 ## FYI
